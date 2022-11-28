@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    color: blue;
+   }
+   .board {
+    margin: auto;
+    width: 350px;
+   }
+   .board button {
+    height: 100px;
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 3em
+   }
+   #messages {
+    font-family: monospace;
+    color: purple;
+    font-size: 20px;
+   }
